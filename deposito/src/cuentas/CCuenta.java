@@ -1,11 +1,12 @@
 package cuentas;
+
+/**
+ * Clase CCuenta como la del banco y permite hacer ingresos y retiradas de dinero
+ * 
+ * @author IES Avellaneda
+ * @version 1 
+ */
 public class CCuenta {
-	/**
-	 * Clase CCuenta como la del banco y permite hacer ingresos y retiradas de dinero
-	 * 
-	 * @author IES Avellaneda
-	 * @version 1 
-	 */
 
     private String nombre;
     private String cuenta;
